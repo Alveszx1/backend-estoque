@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "knex": "^3.3.0",
+    "mqtt": "^5.15.2",
+    "mysql2": "^3.24.5"
+  }
+}
